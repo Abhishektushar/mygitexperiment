@@ -1,1 +1,0 @@
-document.getElementById("image").src = "zerodha.png";
